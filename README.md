@@ -1,6 +1,7 @@
 # Welcome! 🤖 
-
 🖌️ @Composable fun Greeting() { Text("Hello, World 👋 from Andres!") }   
+
+About me:
 🚀 **Senior Android Engineer | Android Tech Lead | SDK Developer | IoT Enthusiast**  
 🎯 Passionate about building scalable mobile apps, leading Android teams, and contributing to open-source tools.
 

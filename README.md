@@ -1,16 +1,30 @@
-## Hi there 👋
+# Welcome! 🤖 
 
-<!--
-**andrespelaezp/andrespelaezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖌️ @Composable fun Greeting() { Text("Hello, World 👋 from Andres!") }
+🚀 **Senior Android Engineer | Android Tech Lead | SDK Developer | IoT Enthusiast**  
+🎯 Passionate about building scalable mobile apps, leading Android teams, and contributing to open-source tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I’m Working On
+
+- 💡 [Jetpack Compose Experiments](https://github.com/andrespelaezp/compose-experiments) – Exploring advanced Compose UI, animations, and performance tuning.
+- 🔄 [Offline Task Personal App](https://github.com/andrespelaezp) – (Currently private) Seamless background syncing of work packages in OpenProject clients using Room and WorkManager.
+- 🧱 [Modular Android Architecture Demo](https://github.com/andrespelaezp/architecture-modular-demo) – TBD - A clean, scalable architecture template using modern Android best practices.
+
+---
+
+## 🎙️ Community & Goals
+
+- 👨‍🏫 Mentoring Android developers and leading high-performing teams.
+- 🎤 Speaking at user groups, meetups, and dev communities.
+- 🌟 Working toward becoming a **Google Developer Expert (GDE)** in Android.
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/andrespelaezp)
+- 💻 [GitHub](https://github.com/andrespelaezp)
+- 📫 [Telegram](https://telegram.me/andrespelaezp)
+- 📬 Let’s connect — whether it’s to collaborate, co-present at an event, or just talk Android!
